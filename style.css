@@ -1,0 +1,56 @@
+           body {
+               background-image: url(https://tse1.mm.bing.net/th?id=OIP.13YkNno2dQ7qZOaiUwDargHaEK&pid=Api&P=0&h=220);
+               background-size: cover;
+           }
+           
+           div h1 {
+               color: white;
+               display: flex;
+               justify-content: center;
+               margin-top: 15%;
+           }
+           
+           .M {
+               color: white;
+               display: flex;
+               justify-content: center;
+           }
+           
+           .logo {
+               background-image: url(https://www.instagram.com/p/Cp2BQaYtfMW/);
+               display: flex;
+               justify-content: center;
+           }
+           
+           .logos {
+               font-size: 28px;
+               text-align: center;
+               display: flex;
+               justify-content: center;
+               justify-content: space-evenly;
+               margin-top: 50px;
+           }
+           
+           .follow {
+               color: brown;
+               display: flex;
+               justify-content: center;
+               text-decoration: underline;
+               font-weight: 700;
+               font-size: 20px;
+           }
+           
+           img {
+               width: 200px;
+               height: 200px;
+               border-radius: 50%;
+               display: inline;
+               justify-content: center;
+           }
+           
+           .LOGO {
+               display: flex;
+               justify-content: center;
+               color: white;
+               margin-top: 15%;
+           }
